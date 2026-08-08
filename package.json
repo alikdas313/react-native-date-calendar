@@ -1,0 +1,23 @@
+{
+  "name": "react-native-date-calendar",
+  "version": "1.0.0",
+  "description": "An npm package to pick date from calendar",
+  "keywords": [
+    "npm"
+  ],
+  "homepage": "https://github.com/alikdas313/react-native-date-calendar#readme",
+  "bugs": {
+    "url": "https://github.com/alikdas313/react-native-date-calendar/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikdas313/react-native-date-calendar.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Alik Das",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  }
+}
